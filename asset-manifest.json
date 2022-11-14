@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/react-github-test/static/css/main.073c9b0a.css",
+    "main.js": "/github.io/react-github-test/static/js/main.2d83073c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/github.io/react-github-test/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/github.io/react-github-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/react-github-test/index.html",
+    "main.073c9b0a.css.map": "/github.io/react-github-test/static/css/main.073c9b0a.css.map",
+    "main.2d83073c.js.map": "/github.io/react-github-test/static/js/main.2d83073c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/github.io/react-github-test/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2d83073c.js"
+  ]
+}
